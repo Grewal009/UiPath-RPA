@@ -6,3 +6,5 @@ Create a project that asks for the user’s full name, store it and display only
 [Main Sequence](https://github.com/Grewal009/UiPath-RPA/blob/main/Day-03/outline-sequence.jpg)
 
 hint - `Username.Split(" "c)(0) +" you are "+ (DateTime.Now.Year - BirthYear).ToString()+ " years old.`
+or
+`Username.Substring(0,1)+" you are "+ (DateTime.Now.Year - BirthYear).ToString()+ " years old.`
