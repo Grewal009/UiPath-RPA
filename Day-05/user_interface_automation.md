@@ -69,7 +69,7 @@ AI Computer Vision is an AI skill that enables all UiPath Robots to see every el
 ### Interaction between key concepts in UI automation: 
 
 An application's interface requires coordination between these key concepts to execute an action. The diagram below provides a brief overview.
-[diagram]()
+[diagram](https://github.com/Grewal009/UiPath-RPA/blob/main/Day-05/diagram.jpg)
 
 - **Targeting methods**: determine which elements in the UI to interact with.
 
